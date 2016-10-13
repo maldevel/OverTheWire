@@ -1,4 +1,6 @@
-**Bandit Level 0**
+###Bandit Level 0
 
-**Solution**
+####Solution
+```bash
 	ssh bandit0@bandit.labs.overthewire.org
+```
