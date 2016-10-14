@@ -1,4 +1,4 @@
-###Bandit Level 0 -> 1
+###Bandit Level 1
 
 ####Solution
 ```
@@ -7,7 +7,7 @@
 ```
 
 
-#####Key for Level 1
+#####Key for Level 2
 ```
 	boJ9jbbUNNfktd78OOpsqOltutMc3MY1
 ```
