@@ -20,3 +20,7 @@ echo '9 -> 10'
 python Level9.py
 echo '10 -> 11'
 python Level10.py
+echo '11 -> 12'
+python Level11.py
+echo '12 -> 13'
+python Level12.py
