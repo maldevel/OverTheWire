@@ -1,4 +1,4 @@
-###Bandit Level 10
+###Bandit Level 11
 
 ####Solution
 ```
@@ -7,7 +7,7 @@
 ```
 
 
-#####Key for Level 11
+#####Key for Level 12
 ```
 	IFukwKGsFW8MOq3IRFqrxE1hxTNEbUPR
 ```
