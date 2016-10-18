@@ -24,3 +24,8 @@ echo '11 -> 12'
 python Level11.py
 echo '12 -> 13'
 python Level12.py
+echo '13 -> 14'
+python Level13.py
+echo '14 -> 15'
+python Level14.py
+
