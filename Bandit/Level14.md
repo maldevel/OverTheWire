@@ -3,11 +3,11 @@
 ####Solution
 ```
 	ssh bandit13@bandit.labs.overthewire.org
-	ssh -o StrictHostKeyChecking=no -i sshkey.private bandit14@localhost cat /etc/bandit_pass/bandit14
+	ssh -o StrictHostKeyChecking=no -i sshkey.private bandit14@localhost cat /etc/bandit_pass/bandit14 | nc 127.0.0.1 30000 | sed -e 's/Correct!//' | sed '/^\s*$/d'
 ```
 
 
 #####Key for Level 15
 ```
-	4wcYUJFw0k0XLShlDzztnTBHiqxU3b3e
+	BfMYroe26WYalil77FoDi9qh59eK5xNr
 ```
