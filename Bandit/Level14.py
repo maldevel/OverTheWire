@@ -7,5 +7,8 @@ cmd = "ssh -o StrictHostKeyChecking=no -i sshkey.private bandit14@localhost cat 
 
 s =  ssh(host=hostname, user=username, password=password)
 ex = s.run(cmd)
-print ex.recvall()
+data = ex.recvall()
 
+occur = [m.start() for m in re.finditer('\n', data)]
+data = data[occur[len(occur)-2]+1:]
+print data

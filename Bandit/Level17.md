@@ -3,7 +3,6 @@
 ####Solution
 ```bash
 	ssh bandit17@bandit.labs.overthewire.org
-	
 ```
 
 
