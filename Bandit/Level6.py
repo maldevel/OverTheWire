@@ -1,10 +1,11 @@
-import paramiko
+from pwn import *
 
-ssh = paramiko.SSHClient()
-ssh.set_missing_host_key_policy(paramiko.AutoAddPolicy())
-ssh.connect('bandit.labs.overthewire.org', username='bandit5', password='koReBOKuIDDepwhWk7jZC0RTdopnAYKh')
-stdin, stdout, stderr = ssh.exec_command('find . -type f -size 1033c | xargs cat {}')
-lines = stdout.readlines()
-for line in lines:
-        if line.strip():
-		print line
+hostname = 'bandit.labs.overthewire.org'
+username = 'bandit5'
+password = 'koReBOKuIDDepwhWk7jZC0RTdopnAYKh'
+cmd = 'find . -type f -size 1033c | xargs cat {}'
+
+s =  ssh(host=hostname, user=username, password=password)
+ex = s.run(cmd)
+print ex.recvall()
+
