@@ -1,10 +1,11 @@
-import paramiko
+from pwn import *
 
-ssh = paramiko.SSHClient()
-ssh.set_missing_host_key_policy(paramiko.AutoAddPolicy())
-ssh.connect('bandit.labs.overthewire.org', username='bandit7', password='HKBPTKQnIay4Fw76bEy8PVxKEDQRKTzs')
-stdin, stdout, stderr = ssh.exec_command("grep \"millionth\" data.txt | awk -F'\t' '{print $2}'")
-lines = stdout.readlines()
-for line in lines:
-        if line.strip():
-		print line
+hostname = 'bandit.labs.overthewire.org'
+username = 'bandit7'
+password = 'HKBPTKQnIay4Fw76bEy8PVxKEDQRKTzs'
+cmd = "grep \"millionth\" data.txt | awk -F'\t' '{print $2}'"
+
+s =  ssh(host=hostname, user=username, password=password)
+ex = s.run(cmd)
+print ex.recvall()
+
