@@ -1,5 +1,6 @@
 # OverTheWire
-OverTheWire Wargames write-up
+- OverTheWire Wargames write-up
+- * Check the [License](https://github.com/maldevel/OverTheWire/blob/master/LICENSE)
 
 ##Bandit
 * [Level 0](Bandit/Level0.md)
