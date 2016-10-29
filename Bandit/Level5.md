@@ -1,7 +1,7 @@
 ###Bandit Level 5
 
 ####Solution
-```
+```bash
 	ssh bandit4@bandit.labs.overthewire.org
 	cat < inhere/-file07
 ```

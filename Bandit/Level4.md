@@ -1,7 +1,7 @@
 ###Bandit Level 4
 
 ####Solution
-```
+```bash
 	ssh bandit3@bandit.labs.overthewire.org
 	cat inhere/.hidden
 ```

@@ -1,7 +1,7 @@
 ###Bandit Level 8
 
 ####Solution
-```
+```bash
 	ssh bandit7@bandit.labs.overthewire.org
 	grep "millionth" data.txt | awk -F'\t' '{print $2}'
 ```

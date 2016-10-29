@@ -1,7 +1,7 @@
 ###Bandit Level 9
 
 ####Solution
-```
+```bash
 	ssh bandit8@bandit.labs.overthewire.org
 	sort data.txt | uniq -u
 ```

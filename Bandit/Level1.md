@@ -1,7 +1,7 @@
 ###Bandit Level 1
 
 ####Solution
-```
+```bash
 	ssh bandit0@bandit.labs.overthewire.org
 	cat readme
 ```

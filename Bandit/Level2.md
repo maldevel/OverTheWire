@@ -1,7 +1,7 @@
 ###Bandit Level 2
 
 ####Solution
-```
+```bash
 	ssh bandit1@bandit.labs.overthewire.org
 	cat < -
 ```

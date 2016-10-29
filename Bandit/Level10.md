@@ -1,7 +1,7 @@
 ###Bandit Level 10
 
 ####Solution
-```
+```bash
 	ssh bandit9@bandit.labs.overthewire.org
 	strings data.txt | grep '==' | awk -F' ' '{print $2}' | awk 'length($0)==32'
 ```

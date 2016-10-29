@@ -1,7 +1,7 @@
 ###Bandit Level 6
 
 ####Solution
-```
+```bash
 	ssh bandit5@bandit.labs.overthewire.org
 	find . -type f -size 1033c | xargs cat {}
 ```

@@ -1,7 +1,7 @@
 ###Bandit Level 11
 
 ####Solution
-```
+```bash
 	ssh bandit10@bandit.labs.overthewire.org
 	base64 -d data.txt
 ```

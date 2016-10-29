@@ -1,7 +1,7 @@
 ###Bandit Level 16
 
 ####Solution
-```
+```bash
 	ssh bandit16@bandit.labs.overthewire.org
 	nmap -sV -v -p31000-32000 127.0.0.1
 	cat /etc/bandit_pass/bandit16 | openssl s_client -connect 127.0.0.1:31790 -quiet | sed -e 's/Correct!//' | sed '/^\s*$/d'

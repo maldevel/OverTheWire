@@ -1,7 +1,7 @@
 ###Bandit Level 13
 
 ####Solution
-```
+```bash
 	ssh bandit12@bandit.labs.overthewire.org
 	mkdir /tmp/banditgame/ && cp data.txt /tmp/banditgame/ && cd /tmp/banditgame/ && 
 	xxd -r data.txt data.gz && gzip -d data.gz && bzip2 -d -q data && mv data.out data.gz && 
