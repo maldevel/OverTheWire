@@ -1,10 +1,11 @@
-import paramiko
+from pwn import *
 
-ssh = paramiko.SSHClient()
-ssh.set_missing_host_key_policy(paramiko.AutoAddPolicy())
-ssh.connect('bandit.labs.overthewire.org', username='bandit15', password='BfMYroe26WYalil77FoDi9qh59eK5xNr')
-stdin, stdout, stderr = ssh.exec_command("echo 'BfMYroe26WYalil77FoDi9qh59eK5xNr' | openssl s_client -connect 127.0.0.1:30001 -quiet | sed -e 's/Correct!//' | sed '/^\s*$/d'")
-lines = stdout.readlines()
-for line in lines:
-        if line.strip():
-		print line
+hostname = 'bandit.labs.overthewire.org'
+username = 'bandit15'
+password = 'BfMYroe26WYalil77FoDi9qh59eK5xNr'
+cmd = "echo 'BfMYroe26WYalil77FoDi9qh59eK5xNr' | openssl s_client -connect 127.0.0.1:30001 -quiet | sed -e 's/Correct!//' | sed '/^\s*$/d'"
+
+s =  ssh(host=hostname, user=username, password=password)
+ex = s.run(cmd)
+print ex.recvall()
+
