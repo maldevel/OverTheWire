@@ -1,9 +1,10 @@
-import paramiko
+from pwn import *
 
-ssh = paramiko.SSHClient()
-ssh.set_missing_host_key_policy(paramiko.AutoAddPolicy())
-ssh.connect('bandit.labs.overthewire.org', username='bandit0', password='bandit0')
-stdin, stdout, stderr = ssh.exec_command('cat readme')
-lines = stdout.readlines()
-for line in lines:
-        print line
+hostname = 'bandit.labs.overthewire.org'
+username = 'bandit0'
+password = 'bandit0'
+
+s =  ssh(host=hostname, user=username, password=password)
+cmd = s.run('cat readme')
+print cmd.recvall()
+
