@@ -21,3 +21,4 @@
 * [Level 15](Bandit/Level15.md)
 * [Level 16](Bandit/Level16.md)
 * [Level 17](Bandit/Level17.md)
+* [Level 18](Bandit/Level18.md)
