@@ -33,7 +33,7 @@ python Level15.py SILENT=1
 echo '16 -> 17'
 python Level16.py SILENT=1
 echo '17 -> 18'
-python Level16.py SILENT=1
-
-
+python Level17.py SILENT=1
+echo '18 -> 19'
+python Level18.py SILENT=1
 
