@@ -44,4 +44,6 @@ printf '\n21 -> 22\n'
 python Level21.py SILENT=1
 echo '22 -> 23'
 python Level22.py SILENT=1
+echo '23 -> 24'
+python Level23.py SILENT=1
 
