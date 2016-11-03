@@ -40,4 +40,6 @@ echo '19 -> 20'
 python Level19.py SILENT=1
 echo '20 -> 21'
 python Level20.py SILENT=1
+printf '\n21 -> 22\n'
+python Level21.py SILENT=1
 
