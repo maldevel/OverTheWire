@@ -9,6 +9,7 @@
 	tar xf data6.bin.out && mv data8.bin data8.gz && gzip -d data8.gz && 
 	cat data8 | sed -e 's/The password is //' && rm -rf /tmp/banditgame/ && cd ~
 ```
+**Password**: *5Te8Y4drgCRfCx8ugdwuEX8KFC6k2EUu*
 
 
 #####Key for Level 14

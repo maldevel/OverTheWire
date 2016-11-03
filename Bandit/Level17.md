@@ -5,6 +5,7 @@
 	ssh bandit17@bandit.labs.overthewire.org
 	diff passwords.{new,old} | grep "<" | cut -d" " -f2
 ```
+**Password**: *xLYVMN9WE5zQ5vHacb0sZEVqbrp7nBTn*
 
 
 #####Key for Level 17

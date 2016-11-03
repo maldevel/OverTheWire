@@ -4,3 +4,4 @@
 ```bash
 	ssh bandit0@bandit.labs.overthewire.org
 ```
+**Password**: *bandit0*

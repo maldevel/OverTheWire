@@ -5,6 +5,7 @@
 	ssh bandit6@bandit.labs.overthewire.org
 	find / -type f -user bandit7 -group bandit6 -size 33c 2> /dev/null | xargs cat
 ```
+**Password**: *DXjZPULLxYr17uwoI01bNLQbtFemEgo7*
 
 
 #####Key for Level 8

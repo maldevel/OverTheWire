@@ -5,6 +5,7 @@
 	ssh bandit1@bandit.labs.overthewire.org
 	cat < -
 ```
+**Password**: *boJ9jbbUNNfktd78OOpsqOltutMc3MY1*
 
 
 #####Key for Level 3
