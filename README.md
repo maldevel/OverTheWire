@@ -26,3 +26,4 @@
 - [Level 17](Bandit/Level17.md)
 - [Level 18](Bandit/Level18.md)
 - [Level 19](Bandit/Level19.md)
+- [Level 20](Bandit/Level20.md)
