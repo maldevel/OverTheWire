@@ -46,4 +46,6 @@ echo '22 -> 23'
 python Level22.py SILENT=1
 echo '23 -> 24'
 python Level23.py SILENT=1
+echo '24 -> 25'
+python Level24.py SILENT=1
 
