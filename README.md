@@ -31,3 +31,4 @@
 - [Level 22](Bandit/Level22.md)
 - [Level 23](Bandit/Level23.md)
 - [Level 24](Bandit/Level24.md)
+- [Level 25](Bandit/Level25.md)
