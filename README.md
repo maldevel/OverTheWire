@@ -5,7 +5,7 @@
 ## Contents
 - [Bandit](#Bandit)
 
->! ### Bandit
+>! Bandit
 >! - [Level 0](Bandit/Level0.md)
 >! - [Level 1](Bandit/Level1.md)
 >! - [Level 2](Bandit/Level2.md)
