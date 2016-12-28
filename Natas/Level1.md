@@ -2,7 +2,7 @@
 
 ####Solution
 
-[natas0](http://natas1.natas.labs.overthewire.org)
+[natas1](http://natas1.natas.labs.overthewire.org)
 
 The password  is in the HTML source code.
 
