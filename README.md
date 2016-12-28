@@ -32,3 +32,6 @@
 - [Level 23](Bandit/Level23.md)
 - [Level 24](Bandit/Level24.md)
 - [Level 25](Bandit/Level25.md)
+
+### Natas
+- [Level 0](Natas/Level0.md)
