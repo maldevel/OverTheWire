@@ -1,14 +1,21 @@
-###Natas Level 2 
+###Natas Level 2
 
-####Solution
-
-[natas2](http://natas2.natas.labs.overthewire.org)
-
-Firefox: Hit ctrl+U or hit Alt -> Tools -> Web Developer -> Page Source
-
-The password  is in the HTML source code.
+[natas0](http://natas2.natas.labs.overthewire.org)
 
 **Username**: *natas2*
 
 **Password**: *ZluruAthQk7Q2MqmDeTiUij2ZvWy2mBi*
+
+
+###Solution
+
+- Browse to url path [files directory](http://natas2.natas.labs.overthewire.org/files).
+- Open [users.txt](http://natas2.natas.labs.overthewire.org/files/users.txt) file.
+
+
+####Credentials for Level 3
+
+**Username**: *natas3*
+
+**Password**: *sJIJNW6ucpu6HPZ1ZAchaDtwd7oGrD14*
 
