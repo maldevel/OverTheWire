@@ -1,6 +1,6 @@
 ###Natas Level 2
 
-[natas0](http://natas2.natas.labs.overthewire.org)
+[natas2](http://natas2.natas.labs.overthewire.org)
 
 **Username**: *natas2*
 
