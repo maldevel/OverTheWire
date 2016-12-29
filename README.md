@@ -40,3 +40,6 @@
 - [Level 3](Natas/Level3.md)
 - [Level 4](Natas/Level4.md)
 - [Level 5](Natas/Level5.md)
+- [Level 6](Natas/Level6.md)
+
+
