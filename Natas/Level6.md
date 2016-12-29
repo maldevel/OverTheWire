@@ -9,7 +9,7 @@
 
 ###Solution
 
-- Open file [secret.inc]()http://natas6.natas.labs.overthewire.org/includes/secret.inc)
+- Open file [secret.inc](http://natas6.natas.labs.overthewire.org/includes/secret.inc)
 - View source
 - Submit secret: FOEIUWGHFEEUHOFUOIU
 
