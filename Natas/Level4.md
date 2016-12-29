@@ -9,11 +9,11 @@
 
 ###Solution
 
-
+- Change HTTP request referer to http://natas5.natas.labs.overthewire.org/
 
 ####Credentials for Level 5
 
 **Username**: *natas5*
 
-**Password**: **
+**Password**: *iX6IOfmpN7AYOQGPwtn3fXpbaJVJcHfq*
 
