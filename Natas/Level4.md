@@ -9,7 +9,7 @@
 
 ###Solution
 
-- Change HTTP request referer to http://natas5.natas.labs.overthewire.org/
+- Change HTTP request Referer to http://natas5.natas.labs.overthewire.org/
 
 ####Credentials for Level 5
 
