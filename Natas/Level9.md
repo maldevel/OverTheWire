@@ -10,7 +10,7 @@
 ###Solution
 
 - Search for this word: 
-```
+```bash
 ; cat /etc/natas_webpass/natas10 # 
 ```
 
