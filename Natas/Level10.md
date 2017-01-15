@@ -9,14 +9,13 @@
 
 ###Solution
 
-
 - Search for this word: 
 ```bash
 . /etc/natas_webpass/natas11 # 
 ```
 
 
-####Credentials for Level 9 
+####Credentials for Level 11 
 
 **Username**: *natas11*
 
