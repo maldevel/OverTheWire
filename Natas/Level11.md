@@ -11,17 +11,17 @@
 
 - Open site cookies
 - Copy the content of cookie named data (ClVLIh4ASCsCBE8lAxMacFMZV2hdVVotEhhUJQNVAmhSEV4sFxFeaAw).
-- run:
+- Run the following script to get the key:
 ```php
 php Level11.php
 ```
-- key is qw8J
-- run:
+- Key is qw8J
+- Run the following script to get the new cookie value:
 ```php
 php Level11-2.php
 ```
 - Update data cookie value: ClVLIh4ASCsCBE8lAxMacFMOXTlTWxooFhRXJh4FGnBTVF4sFxFeLFMK
-- Refresh
+- Refresh your browser to get natas12 password.
 
 
 ####Credentials for Level 12 
