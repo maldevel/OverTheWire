@@ -4,6 +4,8 @@
 
 ## Contents
 - [Bandit](#Bandit)
+- [Natas](#Natas)
+- [Leviathan](#Leviathan)
 
 ### Bandit
 - [Level 0](Bandit/Level0.md)
@@ -46,3 +48,9 @@
 - [Level 9](Natas/Level9.md)
 - [Level 10](Natas/Level10.md)
 - [Level 11](Natas/Level11.md)
+
+### Leviathan
+- [Level 0](Leviathan/Level0.md)
+- [Level 1](Leviathan/Level1.md)
+
+
