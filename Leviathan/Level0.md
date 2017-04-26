@@ -1,4 +1,4 @@
-###Natas Level 0
+###Leviathan Level 0
 
 [Leviathan0](http://overthewire.org/wargames/leviathan/leviathan0.html)
 

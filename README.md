@@ -52,5 +52,6 @@
 ### Leviathan
 - [Level 0](Leviathan/Level0.md)
 - [Level 1](Leviathan/Level1.md)
+- [Level 2](Leviathan/Level2.md)
 
 

@@ -1,4 +1,4 @@
-###Natas Level 1
+###Leviathan Level 1
 
 [Leviathan1](http://overthewire.org/wargames/leviathan/leviathan1.html)
 
@@ -14,7 +14,7 @@ ltrace ./check
 cat /etc/leviathan_pass/leviathan2
 ```
 
-####Credentials for Level 1
+####Credentials for Level 2
 
 **Username**: *leviathan2*
 
