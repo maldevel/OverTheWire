@@ -1,11 +1,12 @@
 # OverTheWire
-- OverTheWire Wargames write-up
+- OverTheWire Wargames write-ups
 - Check the [License](https://github.com/maldevel/OverTheWire/blob/master/LICENSE)
 
 ## Contents
 - [Bandit](#Bandit)
 - [Natas](#Natas)
 - [Leviathan](#Leviathan)
+- [Narnia](#Narnia)
 
 ### Bandit
 - [Level 0](Bandit/Level0.md)
@@ -58,7 +59,10 @@
 - [Level 5](Leviathan/Level5.md)
 - [Level 6](Leviathan/Level6.md)
 
-
+### Narnia
+- [Level 0](Narnia/Level0.md)
+- [Level 1](Narnia/Level1.md)
+- [Level 2](Narnia/Level2.md)
 
 
 
