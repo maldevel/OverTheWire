@@ -56,7 +56,7 @@
 - [Level 3](Leviathan/Level3.md)
 - [Level 4](Leviathan/Level4.md)
 - [Level 5](Leviathan/Level5.md)
-
+- [Level 6](Leviathan/Level6.md)
 
 
 
