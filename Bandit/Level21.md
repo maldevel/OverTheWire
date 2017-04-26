@@ -1,6 +1,6 @@
-###Bandit Level 21
+### Bandit Level 21
 
-####Solution
+#### Solution
 ```bash
 	ssh bandit21@bandit.labs.overthewire.org
 	ls la /etc/cron.d/
@@ -11,7 +11,7 @@
 **Password**: *gE269g2h3mw3pwgrj0Ha9Uoqen1c9DGr*
 
 
-#####Key for Level 22
+##### Key for Level 22
 ```
 	Yk7owGAcWjwMVRwrTesJEwB7WVOiILLI
 ```

@@ -1,4 +1,4 @@
-###Natas Level 11 
+### Natas Level 11 
 
 [natas11](http://natas11.natas.labs.overthewire.org)
 
@@ -7,7 +7,7 @@
 **Password**: *U82q5TCMMQ9xuFoI3dYX61s7OZD9JKoK*
 
 
-###Solution
+### Solution
 
 - Open site cookies
 - Copy the content of cookie named data (ClVLIh4ASCsCBE8lAxMacFMZV2hdVVotEhhUJQNVAmhSEV4sFxFeaAw).
@@ -24,7 +24,7 @@ php Level11-2.php
 - Refresh your browser to get natas12 password.
 
 
-####Credentials for Level 12 
+#### Credentials for Level 12 
 
 **Username**: *natas12*
 

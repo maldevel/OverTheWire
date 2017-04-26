@@ -1,6 +1,6 @@
-###Bandit Level 16
+### Bandit Level 16
 
-####Solution
+#### Solution
 ```bash
 	ssh bandit16@bandit.labs.overthewire.org
 	nmap -sV -v -p31000-32000 127.0.0.1
@@ -9,7 +9,7 @@
 **Password**: *cluFn7wTiGryunymYOu4RcffSxQluehd*
 
 
-#####Key for Level 17
+##### Key for Level 17
 ```
 	xLYVMN9WE5zQ5vHacb0sZEVqbrp7nBTn
 

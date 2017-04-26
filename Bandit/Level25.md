@@ -1,6 +1,6 @@
-###Bandit Level 25
+### Bandit Level 25
 
-####Solution
+#### Solution
 ```bash
 	ssh bandit25@bandit.labs.overthewire.org
 	set terminal size to 2 or 3 lines
@@ -11,7 +11,7 @@
 **Password**: *uNG9O58gUE7snukf3bvZ0rxhtnjzSGzG*
 
 
-#####Key for Level 26
+##### Key for Level 26
 ```
 	5czgV9L3Xx8JPOyRbXh6lQbmIOWvPT6Z
 ```

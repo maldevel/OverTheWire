@@ -1,4 +1,4 @@
-###Natas Level 10 
+### Natas Level 10 
 
 [natas10](http://natas10.natas.labs.overthewire.org)
 
@@ -7,7 +7,7 @@
 **Password**: *nOpp1igQAkUzaI1GUUjzn1bFVj7xCNzu*
 
 
-###Solution
+### Solution
 
 - Search for this word: 
 ```bash
@@ -15,7 +15,7 @@
 ```
 
 
-####Credentials for Level 11 
+#### Credentials for Level 11 
 
 **Username**: *natas11*
 

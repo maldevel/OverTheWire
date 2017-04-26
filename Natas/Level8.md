@@ -1,4 +1,4 @@
-###Natas Level 8 
+### Natas Level 8 
 
 [natas8](http://natas8.natas.labs.overthewire.org)
 
@@ -7,7 +7,7 @@
 **Password**: *DBfUBfqQG69KvJvJ1iAbMoIpwSNQ9bWe*
 
 
-###Solution
+### Solution
 
 - r1 = hex2bin(3d3d516343746d4d6d6c315669563362)
 - r2 = strrev(r1)
@@ -15,7 +15,7 @@
 - Input secret: oubWYf2kBq
 
 
-####Credentials for Level 9 
+#### Credentials for Level 9 
 
 **Username**: *natas9*
 

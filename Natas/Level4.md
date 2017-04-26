@@ -1,4 +1,4 @@
-###Natas Level 4
+### Natas Level 4
 
 [natas4](http://natas4.natas.labs.overthewire.org)
 
@@ -7,11 +7,11 @@
 **Password**: *Z9tkRkWmpt9Qr7XrR5jWRkgOU901swEZ*
 
 
-###Solution
+### Solution
 
 - Change HTTP request Referer to http://natas5.natas.labs.overthewire.org/
 
-####Credentials for Level 5
+#### Credentials for Level 5
 
 **Username**: *natas5*
 

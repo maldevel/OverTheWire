@@ -1,6 +1,6 @@
-###Bandit Level 24
+### Bandit Level 24
 
-####Solution
+#### Solution
 ```bash
 	ssh bandit24@bandit.labs.overthewire.org
 
@@ -13,7 +13,7 @@
 **Password**: *UoMYTrfrBFHyQXmg6gzctqAwOmw1IohZ*
 
 
-#####Key for Level 25
+##### Key for Level 25
 ```
 	uNG9O58gUE7snukf3bvZ0rxhtnjzSGzG
 ```

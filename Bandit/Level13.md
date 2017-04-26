@@ -1,6 +1,6 @@
-###Bandit Level 13
+### Bandit Level 13
 
-####Solution
+#### Solution
 ```bash
 	ssh bandit12@bandit.labs.overthewire.org
 	mkdir /tmp/banditgame/ && cp data.txt /tmp/banditgame/ && cd /tmp/banditgame/ && 
@@ -12,7 +12,7 @@
 **Password**: *5Te8Y4drgCRfCx8ugdwuEX8KFC6k2EUu*
 
 
-#####Key for Level 14
+##### Key for Level 14
 ```
 	8ZjyCRiBWFYkneahHwxCv3wb2a1ORpYL
 ```

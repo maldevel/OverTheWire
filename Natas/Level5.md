@@ -1,4 +1,4 @@
-###Natas Level 5 
+### Natas Level 5 
 
 [natas5](http://natas5.natas.labs.overthewire.org)
 
@@ -7,11 +7,11 @@
 **Password**: *iX6IOfmpN7AYOQGPwtn3fXpbaJVJcHfq*
 
 
-###Solution
+### Solution
 
 - Change HTTP request Cookie to loggedin=1
 
-####Credentials for Level 6 
+#### Credentials for Level 6 
 
 **Username**: *natas6*
 

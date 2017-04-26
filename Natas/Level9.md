@@ -1,4 +1,4 @@
-###Natas Level 9 
+### Natas Level 9 
 
 [natas9](http://natas9.natas.labs.overthewire.org)
 
@@ -7,7 +7,7 @@
 **Password**: *W0mMhUcRRnG8dcghE4qvk3JA9lGt8nDl*
 
 
-###Solution
+### Solution
 
 - Search for this word: 
 ```bash
@@ -15,7 +15,7 @@
 ```
 
 
-####Credentials for Level 9 
+#### Credentials for Level 9 
 
 **Username**: *natas10*
 

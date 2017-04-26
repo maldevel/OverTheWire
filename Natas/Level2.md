@@ -1,4 +1,4 @@
-###Natas Level 2
+### Natas Level 2
 
 [natas2](http://natas2.natas.labs.overthewire.org)
 
@@ -7,13 +7,13 @@
 **Password**: *ZluruAthQk7Q2MqmDeTiUij2ZvWy2mBi*
 
 
-###Solution
+### Solution
 
 - Browse to url path [files directory](http://natas2.natas.labs.overthewire.org/files).
 - Open [users.txt](http://natas2.natas.labs.overthewire.org/files/users.txt) file.
 
 
-####Credentials for Level 3
+#### Credentials for Level 3
 
 **Username**: *natas3*
 

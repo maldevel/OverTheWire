@@ -1,4 +1,4 @@
-###Natas Level 3
+### Natas Level 3
 
 [natas3](http://natas3.natas.labs.overthewire.org)
 
@@ -7,13 +7,13 @@
 **Password**: *sJIJNW6ucpu6HPZ1ZAchaDtwd7oGrD14*
 
 
-###Solution
+### Solution
 
 - Open file [robots.txt](http://natas3.natas.labs.overthewire.org/robots.txt).
 - Browse to url path [s3cr3t directory](http://natas3.natas.labs.overthewire.org/s3cr3t/)
 - Open [users.txt](http://natas3.natas.labs.overthewire.org/s3cr3t/users.txt) file.
 
-####Credentials for Level 4
+#### Credentials for Level 4
 
 **Username**: *natas4*
 
