@@ -1,4 +1,4 @@
-###Leviathan Level 1
+### Leviathan Level 1
 
 [Leviathan1](http://overthewire.org/wargames/leviathan/leviathan1.html)
 
@@ -7,14 +7,14 @@
 **Password**: *rioGegei8m*
 
 
-###Solution
+### Solution
 ```bash
 ltrace ./check
 ./check (password=sex)
 cat /etc/leviathan_pass/leviathan2
 ```
 
-####Credentials for Level 2
+#### Credentials for Level 2
 
 **Username**: *leviathan2*
 

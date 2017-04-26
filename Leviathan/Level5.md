@@ -1,4 +1,4 @@
-###Leviathan Level 5
+### Leviathan Level 5
 
 [Leviathan5](http://overthewire.org/wargames/leviathan/leviathan5.html)
 
@@ -7,7 +7,7 @@
 **Password**: *Tith4cokei*
 
 
-###Solution
+### Solution
 ```bash
 ./leviathan5
 ln -s /etc/leviathan_pass/leviathan6 /tmp/file.log
@@ -15,7 +15,7 @@ ln -s /etc/leviathan_pass/leviathan6 /tmp/file.log
 ```
 
 
-####Credentials for Level 6
+#### Credentials for Level 6
 
 **Username**: *leviathan6*
 

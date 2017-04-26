@@ -1,4 +1,4 @@
-###Leviathan Level 0
+### Leviathan Level 0
 
 [Leviathan0](http://overthewire.org/wargames/leviathan/leviathan0.html)
 
@@ -7,13 +7,13 @@
 **Password**: *leviathan0*
 
 
-###Solution
+### Solution
 ```bash
 ls -al ~
 cat ~/.backup/bookmarks.html | grep password
 ```
 
-####Credentials for Level 1
+#### Credentials for Level 1
 
 **Username**: *leviathan0*
 

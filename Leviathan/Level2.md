@@ -1,4 +1,4 @@
-###Leviathan Level 2
+### Leviathan Level 2
 
 [Leviathan2](http://overthewire.org/wargames/leviathan/leviathan2.html)
 
@@ -7,7 +7,7 @@
 **Password**: *ougahZi8Ta*
 
 
-###Solution
+### Solution
 ```bash
 mkdir /tmp/maldevel_test
 cd /tmp/maldevel_test
@@ -17,7 +17,7 @@ cd ~
 ./printfile /tmp/maldevel_test/file\ asdf
 ```
 
-####Credentials for Level 3
+#### Credentials for Level 3
 
 **Username**: *leviathan3*
 

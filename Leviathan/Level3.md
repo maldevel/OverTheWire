@@ -1,4 +1,4 @@
-###Leviathan Level 3
+### Leviathan Level 3
 
 [Leviathan3](http://overthewire.org/wargames/leviathan/leviathan3.html)
 
@@ -7,14 +7,14 @@
 **Password**: *Ahdiemoo1j*
 
 
-###Solution
+### Solution
 ```bash
 strings ./level3
 ./level3 (password=snlprintf)
 cat /etc/leviathan_pass/leviathan4
 ```
 
-####Credentials for Level 4
+#### Credentials for Level 4
 
 **Username**: *leviathan4*
 

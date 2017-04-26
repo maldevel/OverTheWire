@@ -1,4 +1,4 @@
-###Leviathan Level 4
+### Leviathan Level 4
 
 [Leviathan4](http://overthewire.org/wargames/leviathan/leviathan4.html)
 
@@ -7,7 +7,7 @@
 **Password**: *vuH0coox6m*
 
 
-###Solution
+### Solution
 ```bash
 ls -la
 cd .trash
@@ -17,7 +17,7 @@ visit: http://www.binaryhexconverter.com/binary-to-ascii-text-converter
 ```
 
 
-####Credentials for Level 5
+#### Credentials for Level 5
 
 **Username**: *leviathan5*
 
