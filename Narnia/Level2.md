@@ -6,7 +6,6 @@
 
 **Password**: *nairiepecu*
 
-
 ### Solution
 
 * http://shell-storm.org/shellcode/files/shellcode-811.php
@@ -16,10 +15,8 @@
 cat /etc/narnia_pass/narnia3
 ```
 
-
 #### Credentials for Level 3
 
 **Username**: *narnia3*
 
 **Password**: *vaequeezee*
-
